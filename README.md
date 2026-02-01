@@ -3,7 +3,7 @@
 A machine learning web application that predicts whether a news article is Real or Fake using a trained ML model.
 
 ## Live Demo
-(Will be added after deployment)
+(https://fake-news-dumcycbwz9i7xvawtmwqpv.streamlit.app/)
 
 ## Features
 - Accepts raw news text as input
@@ -45,4 +45,5 @@ Your Name
 GitHub: https://github.com/Winter17-n
 
 LinkedIn: https://www.linkedin.com/in/nikita-sharma-158545312/
+
 
