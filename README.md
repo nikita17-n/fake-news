@@ -42,5 +42,6 @@ README.md
 
 ## Author
 Your Name
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Winter17-n
+
 LinkedIn: https://linkedin.com/in/yourusername
